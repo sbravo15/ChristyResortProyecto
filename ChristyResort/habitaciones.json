@@ -1,0 +1,17 @@
+[
+        {
+            "nombre":"Pareja",
+            "tamano":"2 Personas",
+            "precio": 35000
+        },
+        {
+            "nombre":"Familiar",
+            "tamano":"4 Personas",
+            "precio": 70000
+        },
+        {
+            "nombre":"Deluxe",
+            "tamano":"2 Personas",
+            "precio": 65000
+        }
+]
